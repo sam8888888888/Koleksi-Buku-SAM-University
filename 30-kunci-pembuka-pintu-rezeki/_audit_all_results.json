@@ -1,0 +1,1052 @@
+{
+ "1": {
+  "file": "BAB_001_Apa_Sebenarnya_Rezeki_v1.md",
+  "tipe": "A",
+  "lolus": true,
+  "kata": 10125,
+  "anggaran": 9500,
+  "dev": 6.6,
+  "temuan": [],
+  "err": null
+ },
+ "2": {
+  "file": "BAB_002_Ar_Razzaq_v1.md",
+  "tipe": "A",
+  "lolus": true,
+  "kata": 9321,
+  "anggaran": 8600,
+  "dev": 8.4,
+  "temuan": [],
+  "err": null
+ },
+ "3": {
+  "file": "BAB_003_Rezeki_dan_Takdir_v1.md",
+  "tipe": "A",
+  "lolus": true,
+  "kata": 9298,
+  "anggaran": 8500,
+  "dev": 9.4,
+  "temuan": [],
+  "err": null
+ },
+ "4": {
+  "file": "BAB_004_Halal_Thayyib_Gerbang_Pangan_Produk_v1.md",
+  "tipe": "A",
+  "lolus": true,
+  "kata": 7679,
+  "anggaran": 7300,
+  "dev": 5.2,
+  "temuan": [],
+  "err": null
+ },
+ "5": {
+  "file": "BAB_005_Penghasilan_Halal_v1.md",
+  "tipe": "A",
+  "lolus": true,
+  "kata": 5314,
+  "anggaran": 4900,
+  "dev": 8.4,
+  "temuan": [],
+  "err": null
+ },
+ "6": {
+  "file": "BAB_006_Sepuluh_Wajah_Rezeki_v1.md",
+  "tipe": "A",
+  "lolus": true,
+  "kata": 8547,
+  "anggaran": 8400,
+  "dev": 1.8,
+  "temuan": [],
+  "err": null
+ },
+ "7": {
+  "file": "BAB_007_Cara_Membaca_Buku_Ini_v1.md",
+  "tipe": "A",
+  "lolus": true,
+  "kata": 4923,
+  "anggaran": 4800,
+  "dev": 2.6,
+  "temuan": [],
+  "err": null
+ },
+ "8": {
+  "file": "BAB_008_Peta_Tujuh_Pintu_v1.md",
+  "tipe": "A",
+  "lolus": true,
+  "kata": 7584,
+  "anggaran": 7100,
+  "dev": 6.8,
+  "temuan": [],
+  "err": null
+ },
+ "9": {
+  "file": "BAB_009_Sebab_Bukan_Jaminan_v1.md",
+  "tipe": "A",
+  "lolus": true,
+  "kata": 10027,
+  "anggaran": 9200,
+  "dev": 9.0,
+  "temuan": [],
+  "err": null
+ },
+ "10": {
+  "file": "BAB_010_Pandangan_Dunia_Ekonomi_Islam_v1.md",
+  "tipe": "B",
+  "lolus": true,
+  "kata": 6654,
+  "anggaran": 7100,
+  "dev": -6.3,
+  "temuan": [],
+  "err": null
+ },
+ "11": {
+  "file": "BAB_011_Maqashid_Hifzh_al-Mal_v1.md",
+  "tipe": "B",
+  "lolus": true,
+  "kata": 4602,
+  "anggaran": 5100,
+  "dev": -9.8,
+  "temuan": [],
+  "err": null
+ },
+ "12": {
+  "file": "BAB_012_Kaidah_Kaidah_Fiqh_Muamalah_v1.md",
+  "tipe": "B",
+  "lolus": true,
+  "kata": 9133,
+  "anggaran": 9900,
+  "dev": -7.7,
+  "temuan": [],
+  "err": null
+ },
+ "13": {
+  "file": "BAB_013_Rambu_Transaksi_v1.md",
+  "tipe": "B",
+  "lolus": true,
+  "kata": 7703,
+  "anggaran": 8200,
+  "dev": -6.1,
+  "temuan": [],
+  "err": null
+ },
+ "14": {
+  "file": "BAB_014_Sejarah_Ekonomi_Islam_v1.md",
+  "tipe": "B",
+  "lolus": true,
+  "kata": 8101,
+  "anggaran": 8900,
+  "dev": -9.0,
+  "temuan": [],
+  "err": null
+ },
+ "15": {
+  "file": "BAB_015_Siapa_Berfatwa_v1.md",
+  "tipe": "B",
+  "lolus": true,
+  "kata": 6991,
+  "anggaran": 6800,
+  "dev": 2.8,
+  "temuan": [],
+  "err": null
+ },
+ "16": {
+  "file": "BAB_016_Ekosistem_Rezeki_v1.md",
+  "tipe": "B",
+  "lolus": true,
+  "kata": 6639,
+  "anggaran": 6900,
+  "dev": -3.8,
+  "temuan": [],
+  "err": null
+ },
+ "17": {
+  "file": "BAB_017_Pajak_Inflasi_Utang_Negara_v1.md",
+  "tipe": "B",
+  "lolus": true,
+  "kata": 8868,
+  "anggaran": 8300,
+  "dev": 6.8,
+  "temuan": [],
+  "err": null
+ },
+ "18": {
+  "file": "BAB_018_Amanah_Bumi_v1.md",
+  "tipe": "B",
+  "lolus": true,
+  "kata": 4292,
+  "anggaran": 4500,
+  "dev": -4.6,
+  "temuan": [],
+  "err": null
+ },
+ "19": {
+  "file": "BAB_019_Kemiskinan_Perspektif_Islam_v1.md",
+  "tipe": "B",
+  "lolus": true,
+  "kata": 8861,
+  "anggaran": 9600,
+  "dev": -7.7,
+  "temuan": [],
+  "err": null
+ },
+ "20": {
+  "file": "BAB_020_Taqwa_Kunci1_v1.md",
+  "tipe": "A",
+  "lolus": true,
+  "kata": 10011,
+  "anggaran": 9300,
+  "dev": 7.6,
+  "temuan": [],
+  "err": null
+ },
+ "21": {
+  "file": "BAB_021_Tawakal_v1.md",
+  "tipe": "A",
+  "lolus": true,
+  "kata": 6420,
+  "anggaran": 6300,
+  "dev": 1.9,
+  "temuan": [],
+  "err": null
+ },
+ "22": {
+  "file": "BAB_022_Ikhlas_dan_Niat_v1.md",
+  "tipe": "A",
+  "lolus": true,
+  "kata": 6218,
+  "anggaran": 6000,
+  "dev": 3.6,
+  "temuan": [],
+  "err": null
+ },
+ "23": {
+  "file": "BAB_023_Syukur_v1.md",
+  "tipe": "A",
+  "lolus": true,
+  "kata": 6973,
+  "anggaran": 6400,
+  "dev": 9.0,
+  "temuan": [],
+  "err": null
+ },
+ "24": {
+  "file": "BAB_024_ShalatFardhu_v1.md",
+  "tipe": "A",
+  "lolus": true,
+  "kata": 7242,
+  "anggaran": 6800,
+  "dev": 6.5,
+  "temuan": [],
+  "err": null
+ },
+ "25": {
+  "file": "BAB_025_Shalat_Dhuha_v1.md",
+  "tipe": "A",
+  "lolus": true,
+  "kata": 5451,
+  "anggaran": 5300,
+  "dev": 2.8,
+  "temuan": [],
+  "err": null
+ },
+ "26": {
+  "file": "BAB_026_Tahajud_v1.md",
+  "tipe": "A",
+  "lolus": true,
+  "kata": 7215,
+  "anggaran": 7000,
+  "dev": 3.1,
+  "temuan": [],
+  "err": null
+ },
+ "27": {
+  "file": "BAB_027_Doa_v1.md",
+  "tipe": "A",
+  "lolus": true,
+  "kata": 6742,
+  "anggaran": 6400,
+  "dev": 5.3,
+  "temuan": [],
+  "err": null
+ },
+ "28": {
+  "file": "BAB_028_Zikir_v1.md",
+  "tipe": "A",
+  "lolus": true,
+  "kata": 6139,
+  "anggaran": 5800,
+  "dev": 5.8,
+  "temuan": [],
+  "err": null
+ },
+ "29": {
+  "file": "BAB_029_Istighfar_v1.md",
+  "tipe": "A",
+  "lolus": true,
+  "kata": 5741,
+  "anggaran": 5300,
+  "dev": 8.3,
+  "temuan": [],
+  "err": null
+ },
+ "30": {
+  "file": "BAB_030_AlQuran_v1.md",
+  "tipe": "A",
+  "lolus": true,
+  "kata": 6380,
+  "anggaran": 6300,
+  "dev": 1.3,
+  "temuan": [],
+  "err": null
+ },
+ "31": {
+  "file": "BAB_031_Waqiah_v1.md",
+  "tipe": "A",
+  "lolus": true,
+  "kata": 6431,
+  "anggaran": 6600,
+  "dev": -2.6,
+  "temuan": [],
+  "err": null
+ },
+ "32": {
+  "file": "BAB_032_Puasa_Ramadan_v1.md",
+  "tipe": "A",
+  "lolus": true,
+  "kata": 6242,
+  "anggaran": 6400,
+  "dev": -2.5,
+  "temuan": [],
+  "err": null
+ },
+ "33": {
+  "file": "BAB_033_Sedekah_v1.md",
+  "tipe": "A",
+  "lolus": true,
+  "kata": 7743,
+  "anggaran": 8100,
+  "dev": -4.4,
+  "temuan": [],
+  "err": null
+ },
+ "34": {
+  "file": "BAB_034_Menolong_Sesama_v1.md",
+  "tipe": "A",
+  "lolus": true,
+  "kata": 5780,
+  "anggaran": 6100,
+  "dev": -5.2,
+  "temuan": [],
+  "err": null
+ },
+ "35": {
+  "file": "BAB_035_Silaturahmi_v1.md",
+  "tipe": "A",
+  "lolus": true,
+  "kata": 6293,
+  "anggaran": 6300,
+  "dev": -0.1,
+  "temuan": [],
+  "err": null
+ },
+ "36": {
+  "file": "BAB_036_Berbakti_Orang_Tua_v1.md",
+  "tipe": "A",
+  "lolus": true,
+  "kata": 6230,
+  "anggaran": 6900,
+  "dev": -9.7,
+  "temuan": [],
+  "err": null
+ },
+ "37": {
+  "file": "BAB_037_Menikah_v1.md",
+  "tipe": "A",
+  "lolus": true,
+  "kata": 7832,
+  "anggaran": 8200,
+  "dev": -4.5,
+  "temuan": [],
+  "err": null
+ },
+ "38": {
+  "file": "BAB_038_Keberkahan_Pagi_v1.md",
+  "tipe": "A",
+  "lolus": true,
+  "kata": 6070,
+  "anggaran": 5600,
+  "dev": 8.4,
+  "temuan": [],
+  "err": null
+ },
+ "39": {
+  "file": "BAB_039_Kerja_Keras_v1.md",
+  "tipe": "A",
+  "lolus": true,
+  "kata": 6613,
+  "anggaran": 7300,
+  "dev": -9.4,
+  "temuan": [],
+  "err": null
+ },
+ "40": {
+  "file": "BAB_040_Jujur_Amanah_Berdagang_v1.md",
+  "tipe": "A",
+  "lolus": true,
+  "kata": 5669,
+  "anggaran": 6100,
+  "dev": -7.1,
+  "temuan": [],
+  "err": null
+ },
+ "41": {
+  "file": "BAB_041_Menyegerakan_Utang_v1.md",
+  "tipe": "A",
+  "lolus": true,
+  "kata": 7469,
+  "anggaran": 8200,
+  "dev": -8.9,
+  "temuan": [],
+  "err": null
+ },
+ "42": {
+  "file": "BAB_042_Hak_Pekerja_v1.md",
+  "tipe": "A",
+  "lolus": true,
+  "kata": 6347,
+  "anggaran": 6500,
+  "dev": -2.4,
+  "temuan": [],
+  "err": null
+ },
+ "43": {
+  "file": "BAB_043_Majelis_Ilmu_v1.md",
+  "tipe": "A",
+  "lolus": true,
+  "kata": 6194,
+  "anggaran": 6100,
+  "dev": 1.5,
+  "temuan": [],
+  "err": null
+ },
+ "44": {
+  "file": "BAB_044_Dakwah_v1.md",
+  "tipe": "A",
+  "lolus": true,
+  "kata": 6398,
+  "anggaran": 6900,
+  "dev": -7.3,
+  "temuan": [],
+  "err": null
+ },
+ "45": {
+  "file": "BAB_045_Qanaah_Iffah_v1.md",
+  "tipe": "A",
+  "lolus": true,
+  "kata": 5914,
+  "anggaran": 6000,
+  "dev": -1.4,
+  "temuan": [],
+  "err": null
+ },
+ "46": {
+  "file": "BAB_046_Husnuzhan_v1.md",
+  "tipe": "A",
+  "lolus": true,
+  "kata": 6290,
+  "anggaran": 6100,
+  "dev": 3.1,
+  "temuan": [],
+  "err": null
+ },
+ "47": {
+  "file": "BAB_047_Shalawat_v1.md",
+  "tipe": "A",
+  "lolus": true,
+  "kata": 6013,
+  "anggaran": 5700,
+  "dev": 5.5,
+  "temuan": [],
+  "err": null
+ },
+ "48": {
+  "file": "BAB_048_Haji_Umrah_v1.md",
+  "tipe": "A",
+  "lolus": true,
+  "kata": 6885,
+  "anggaran": 6500,
+  "dev": 5.9,
+  "temuan": [],
+  "err": null
+ },
+ "49": {
+  "file": "BAB_049_Wara_v1.md",
+  "tipe": "A",
+  "lolus": true,
+  "kata": 5970,
+  "anggaran": 5600,
+  "dev": 6.6,
+  "temuan": [],
+  "err": null
+ },
+ "50": {
+  "file": "BAB_050_Memberi_Tangguh_v1.md",
+  "tipe": "A",
+  "lolus": true,
+  "kata": 5403,
+  "anggaran": 5300,
+  "dev": 1.9,
+  "temuan": [],
+  "err": null
+ },
+ "51": {
+  "file": "BAB_051_Lapang_Bermuamalah_v1.md",
+  "tipe": "A",
+  "lolus": true,
+  "kata": 4727,
+  "anggaran": 4900,
+  "dev": -3.5,
+  "temuan": [],
+  "err": null
+ },
+ "52": {
+  "file": "BAB_052_Rezeki_Terasa_Sempit_v1.md",
+  "tipe": "A",
+  "lolus": true,
+  "kata": 6845,
+  "anggaran": 7100,
+  "dev": -3.6,
+  "temuan": [],
+  "err": null
+ },
+ "53": {
+  "file": "BAB_053_Sabar_Ridha_v1.md",
+  "tipe": "A",
+  "lolus": true,
+  "kata": 5337,
+  "anggaran": 5600,
+  "dev": -4.7,
+  "temuan": [],
+  "err": null
+ },
+ "54": {
+  "file": "BAB_054_Kisah_Nabi_v1.md",
+  "tipe": "A",
+  "lolus": true,
+  "kata": 6961,
+  "anggaran": 6400,
+  "dev": 8.8,
+  "temuan": [],
+  "err": null
+ },
+ "55": {
+  "file": "BAB_055_Harta_Bukan_Ukuran_v1.md",
+  "tipe": "A",
+  "lolus": true,
+  "kata": 6908,
+  "anggaran": 6500,
+  "dev": 6.3,
+  "temuan": [],
+  "err": null
+ },
+ "56": {
+  "file": "BAB_056_Bangkit_dari_Krisis_v1.md",
+  "tipe": "A",
+  "lolus": true,
+  "kata": 8847,
+  "anggaran": 8500,
+  "dev": 4.1,
+  "temuan": [],
+  "err": null
+ },
+ "57": {
+  "file": "BAB_057_Ketika_Jiwa_Lelah_v1.md",
+  "tipe": "A",
+  "lolus": true,
+  "kata": 7472,
+  "anggaran": 7800,
+  "dev": -4.2,
+  "temuan": [],
+  "err": null
+ },
+ "58": {
+  "file": "BAB_058_Rezeki_dalam_Bencana_v1.md",
+  "tipe": "A",
+  "lolus": true,
+  "kata": 4646,
+  "anggaran": 4500,
+  "dev": 3.2,
+  "temuan": [],
+  "err": null
+ },
+ "59": {
+  "file": "BAB_059_Taubat_Tanggung_Jawab_dan_Pemulihan_v1.md",
+  "tipe": "A",
+  "lolus": true,
+  "kata": 6018,
+  "anggaran": 5800,
+  "dev": 3.8,
+  "temuan": [],
+  "err": null
+ },
+ "60": {
+  "file": "BAB_060_Riba_Dalil_Jenis_Hikmah_v1.md",
+  "tipe": "B",
+  "lolus": true,
+  "kata": 9024,
+  "anggaran": 8900,
+  "dev": 1.4,
+  "temuan": [],
+  "err": null
+ },
+ "61": {
+  "file": "BAB_061_Riba_di_Zaman_Kita_v1.md",
+  "tipe": "B",
+  "lolus": true,
+  "kata": 8538,
+  "anggaran": 8000,
+  "dev": 6.7,
+  "temuan": [],
+  "err": null
+ },
+ "62": {
+  "file": "BAB_062_Judi_Gharar_Skema_Cepat_Kaya_v1.md",
+  "tipe": "B",
+  "lolus": true,
+  "kata": 9231,
+  "anggaran": 9100,
+  "dev": 1.4,
+  "temuan": [],
+  "err": null
+ },
+ "63": {
+  "file": "BAB_063_Amalan_Rezeki_Nusantara_v1.md",
+  "tipe": "A",
+  "lolus": true,
+  "kata": 4626,
+  "anggaran": 4700,
+  "dev": -1.6,
+  "temuan": [],
+  "err": null
+ },
+ "64": {
+  "file": "BAB_064_Penyakit_Hati_Pengganggu_Rezeki_v1.md",
+  "tipe": "A",
+  "lolus": true,
+  "kata": 4949,
+  "anggaran": 4900,
+  "dev": 1.0,
+  "temuan": [],
+  "err": null
+ },
+ "65": {
+  "file": "BAB_065_Kikir_Boros_dan_Psikologi_Uang_v1.md",
+  "tipe": "A",
+  "lolus": true,
+  "kata": 7095,
+  "anggaran": 6800,
+  "dev": 4.3,
+  "temuan": [],
+  "err": null
+ },
+ "66": {
+  "file": "BAB_066_Anatomi_Akad_v1.md",
+  "tipe": "B",
+  "lolus": true,
+  "kata": 10534,
+  "anggaran": 10500,
+  "dev": 0.3,
+  "temuan": [],
+  "err": null
+ },
+ "67": {
+  "file": "BAB_067_Akad_Jual_Beli_dan_Variasinya_v1.md",
+  "tipe": "B",
+  "lolus": true,
+  "kata": 7627,
+  "anggaran": 7800,
+  "dev": -2.2,
+  "temuan": [],
+  "err": null
+ },
+ "68": {
+  "file": "BAB_068_Akad_Kerja_Sama_Syirkah_Mudharabah_Musyarakah_v1.md",
+  "tipe": "B",
+  "lolus": true,
+  "kata": 5484,
+  "anggaran": 6000,
+  "dev": -8.6,
+  "temuan": [],
+  "err": null
+ },
+ "69": {
+  "file": "BAB_069_Akad_Jasa_Jaminan_dan_Pinjaman_v1.md",
+  "tipe": "B",
+  "lolus": true,
+  "kata": 6770,
+  "anggaran": 6400,
+  "dev": 5.8,
+  "temuan": [],
+  "err": null
+ },
+ "70": {
+  "file": "BAB_070_Etika_Pasar_Pengawasan_Harga_Persaingan_Hisbah_v1.md",
+  "tipe": "B",
+  "lolus": true,
+  "kata": 7570,
+  "anggaran": 7300,
+  "dev": 3.7,
+  "temuan": [],
+  "err": null
+ },
+ "71": {
+  "file": "BAB_071_Perdagangan_dan_Bisnis_Digital_v1.md",
+  "tipe": "B",
+  "lolus": true,
+  "kata": 7667,
+  "anggaran": 7700,
+  "dev": -0.4,
+  "temuan": [],
+  "err": null
+ },
+ "72": {
+  "file": "BAB_072_Perdagangan_Lintas_Negara_Fiqh_Ekspor_Impor_v1.md",
+  "tipe": "B",
+  "lolus": true,
+  "kata": 6775,
+  "anggaran": 6700,
+  "dev": 1.1,
+  "temuan": [],
+  "err": null
+ },
+ "73": {
+  "file": "BAB_073_Etika_Digital_Reputasi_Data_dan_Kecerdasan_Buatan_sebagai_Amanah_v1.md",
+  "tipe": "B",
+  "lolus": true,
+  "kata": 9354,
+  "anggaran": 8900,
+  "dev": 5.1,
+  "temuan": [],
+  "err": null
+ },
+ "74": {
+  "file": "BAB_074_Rezeki_di_Era_Kecerdasan_Buatan_v1.md",
+  "tipe": "B",
+  "lolus": true,
+  "kata": 4639,
+  "anggaran": 4900,
+  "dev": -5.3,
+  "temuan": [],
+  "err": null
+ },
+ "75": {
+  "file": "BAB_075_Investasi_Syariah_1_Prinsip_dan_Kerangka_Analisis_v1.md",
+  "tipe": "B",
+  "lolus": true,
+  "kata": 6981,
+  "anggaran": 7400,
+  "dev": -5.7,
+  "temuan": [],
+  "err": null
+ },
+ "76": {
+  "file": "BAB_076_Investasi_Syariah_2_Instrumen_dan_Cara_Mengujinya_v1.md",
+  "tipe": "B",
+  "lolus": true,
+  "kata": 9017,
+  "anggaran": 9000,
+  "dev": 0.2,
+  "temuan": [],
+  "err": null
+ },
+ "77": {
+  "file": "BAB_077_Amanah_Tata_Kelola_dan_Laporan_Keuangan_Usaha_v1.md",
+  "tipe": "B",
+  "lolus": true,
+  "kata": 10269,
+  "anggaran": 9600,
+  "dev": 7.0,
+  "temuan": [],
+  "err": null
+ },
+ "78": {
+  "file": "BAB_078_Modal_Manusia_Waktu_Kesehatan_Ilmu_Karakter_v1.md",
+  "tipe": "B",
+  "lolus": true,
+  "kata": 8139,
+  "anggaran": 7600,
+  "dev": 7.1,
+  "temuan": [],
+  "err": null
+ },
+ "79": {
+  "file": "BAB_079_Anggaran_Keluarga_Syari_v1.md",
+  "tipe": "B",
+  "lolus": true,
+  "kata": 8754,
+  "anggaran": 8500,
+  "dev": 3.0,
+  "temuan": [],
+  "err": null
+ },
+ "80": {
+  "file": "BAB_080_Dana_Darurat_Menabung_dan_Menafkahi_Keluarga_v1.md",
+  "tipe": "B",
+  "lolus": true,
+  "kata": 6142,
+  "anggaran": 6100,
+  "dev": 0.7,
+  "temuan": [],
+  "err": null
+ },
+ "81": {
+  "file": "BAB_081_Risiko_Ketahanan_dan_Penjagaan_Harta_v1.md",
+  "tipe": "B",
+  "lolus": true,
+  "kata": 8223,
+  "anggaran": 8100,
+  "dev": 1.5,
+  "temuan": [],
+  "err": null
+ },
+ "82": {
+  "file": "BAB_082_Siklus_Hidup_Keuangan_Muslim_v1.md",
+  "tipe": "B",
+  "lolus": true,
+  "kata": 12141,
+  "anggaran": 11700,
+  "dev": 3.8,
+  "temuan": [],
+  "err": null
+ },
+ "83": {
+  "file": "BAB_083_Fiqh_Zakat_Dalil_Syarat_dan_Jenis_Harta_v1.md",
+  "tipe": "B",
+  "lolus": true,
+  "kata": 9131,
+  "anggaran": 8600,
+  "dev": 6.2,
+  "temuan": [],
+  "err": null
+ },
+ "84": {
+  "file": "BAB_084_Zakat_dalam_Praktik_Menghitung_dan_Menyalurkan_v1.md",
+  "tipe": "B",
+  "lolus": true,
+  "kata": 6315,
+  "anggaran": 6500,
+  "dev": -2.8,
+  "temuan": [],
+  "err": null
+ },
+ "85": {
+  "file": "BAB_085_Perbankan_dan_Pembiayaan_Syariah_v1.md",
+  "tipe": "B",
+  "lolus": true,
+  "kata": 5684,
+  "anggaran": 5900,
+  "dev": -3.7,
+  "temuan": [],
+  "err": null
+ },
+ "86": {
+  "file": "BAB_086_Takaful_Perlindungan_Risiko_dan_Jaminan_Sosial_v1.md",
+  "tipe": "B",
+  "lolus": true,
+  "kata": 4781,
+  "anggaran": 4900,
+  "dev": -2.4,
+  "temuan": [],
+  "err": null
+ },
+ "87": {
+  "file": "BAB_087_Rumah_dan_Kendaraan_Keputusan_Aset_Besar_Keluarga_v1.md",
+  "tipe": "B",
+  "lolus": true,
+  "kata": 5588,
+  "anggaran": 5300,
+  "dev": 5.4,
+  "temuan": [],
+  "err": null
+ },
+ "88": {
+  "file": "BAB_088_Ekonomi_Umat_Koperasi_Syariah_BMT_dan_Berjamaah_v1.md",
+  "tipe": "B",
+  "lolus": true,
+  "kata": 6387,
+  "anggaran": 6400,
+  "dev": -0.2,
+  "temuan": [],
+  "err": null
+ },
+ "89": {
+  "file": "BAB_089_Faraid_Hukum_Warisan_dalam_Islam_v1.md",
+  "tipe": "B",
+  "lolus": true,
+  "kata": 8041,
+  "anggaran": 7800,
+  "dev": 3.1,
+  "temuan": [],
+  "err": null
+ },
+ "90": {
+  "file": "BAB_090_Wasiat_Hibah_dan_Perencanaan_Harta_v1.md",
+  "tipe": "B",
+  "lolus": true,
+  "kata": 7201,
+  "anggaran": 6900,
+  "dev": 4.4,
+  "temuan": [],
+  "err": null
+ },
+ "91": {
+  "file": "BAB_091_Wakaf_Dalil_Rukun_dan_Pengelolaan_Produktif_v1.md",
+  "tipe": "B",
+  "lolus": true,
+  "kata": 6383,
+  "anggaran": 6800,
+  "dev": -6.1,
+  "temuan": [],
+  "err": null
+ },
+ "92": {
+  "file": "BAB_092_Satu_Hari_Seorang_Muslim_Pembuka_Rezeki_v1.md",
+  "tipe": "B",
+  "lolus": true,
+  "kata": 4388,
+  "anggaran": 4700,
+  "dev": -6.6,
+  "temuan": [],
+  "err": null
+ },
+ "93": {
+  "file": "BAB_093_Panduan_Khusus_Muslimah_Rezeki_di_Rumah_di_Karier_dan_di_Hati_v1.md",
+  "tipe": "B",
+  "lolus": true,
+  "kata": 5064,
+  "anggaran": 5500,
+  "dev": -7.9,
+  "temuan": [],
+  "err": null
+ },
+ "94": {
+  "file": "BAB_094_Panduan_Khusus_Muslim_Memimpin_Menafkahi_dan_Memikul_Amanah_v1.md",
+  "tipe": "B",
+  "lolus": true,
+  "kata": 5368,
+  "anggaran": 5500,
+  "dev": -2.4,
+  "temuan": [],
+  "err": null
+ },
+ "95": {
+  "file": "BAB_095_Pendidikan_Finansial_Anak_Mendidik_dengan_Rezeki_Halal_v1.md",
+  "tipe": "B",
+  "lolus": true,
+  "kata": 7689,
+  "anggaran": 7900,
+  "dev": -2.7,
+  "temuan": [],
+  "err": null
+ },
+ "96": {
+  "file": "BAB_096_Panduan_Khusus_Generasi_Muda_Gaji_Pertama_dan_Menjauh_dari_Judi_dan_Pinjol_v1.md",
+  "tipe": "B",
+  "lolus": true,
+  "kata": 6244,
+  "anggaran": 6900,
+  "dev": -9.5,
+  "temuan": [],
+  "err": null
+ },
+ "97": {
+  "file": "BAB_097_Panduan_Khusus_Profesi_Lapangan_dan_Pekerja_Informal_v1.md",
+  "tipe": "B",
+  "lolus": true,
+  "kata": 5788,
+  "anggaran": 5700,
+  "dev": 1.5,
+  "temuan": [],
+  "err": null
+ },
+ "98": {
+  "file": "BAB_098_Panduan_Khusus_Keadaan_Hidup_yang_Sering_Terlupakan_v1.md",
+  "tipe": "B",
+  "lolus": true,
+  "kata": 5135,
+  "anggaran": 4900,
+  "dev": 4.8,
+  "temuan": [],
+  "err": null
+ },
+ "99": {
+  "file": "BAB_099_Tantangan_90_Hari_1_Dasar_Program_Aturan_Main_dan_Cara_Menyesuaikannya_v1.md",
+  "tipe": "B",
+  "lolus": true,
+  "kata": 5073,
+  "anggaran": 5100,
+  "dev": -0.5,
+  "temuan": [],
+  "err": null
+ },
+ "100": {
+  "file": "BAB_100_Tantangan_90_Hari_2_Tahap_1_dan_Tahap_2_Pekan_1_sampai_8_v1.md",
+  "tipe": "B",
+  "lolus": true,
+  "kata": 4979,
+  "anggaran": 5100,
+  "dev": -2.4,
+  "temuan": [],
+  "err": null
+ },
+ "101": {
+  "file": "BAB_101_Tantangan_90_Hari_3_Pekan_9_sampai_12_Evaluasi_dan_Pemeliharaan_v1.md",
+  "tipe": "B",
+  "lolus": true,
+  "kata": 5194,
+  "anggaran": 5300,
+  "dev": -2.0,
+  "temuan": [],
+  "err": null
+ },
+ "102": {
+  "file": "BAB_102_Rapor_Rezeki_Mengukur_Transformasi_v1.md",
+  "tipe": "B",
+  "lolus": true,
+  "kata": 8261,
+  "anggaran": 8100,
+  "dev": 2.0,
+  "temuan": [],
+  "err": null
+ },
+ "103": {
+  "file": "BAB_103_Mitos_Rezeki_Memilah_Klaim_Viral_dari_Dalil_yang_Kuat_v1.md",
+  "tipe": "B",
+  "lolus": true,
+  "kata": 15500,
+  "anggaran": 15300,
+  "dev": 1.3,
+  "temuan": [],
+  "err": null
+ },
+ "104": {
+  "file": "BAB_104_Perpustakaan_Studi_Kasus_Rezeki_dalam_Kehidupan_Nyata_v1.md",
+  "tipe": "B",
+  "lolus": true,
+  "kata": 13912,
+  "anggaran": 13700,
+  "dev": 1.5,
+  "temuan": [],
+  "err": null
+ },
+ "105": {
+  "file": "BAB_105_Tanya_Jawab_Rezeki_v1.md",
+  "tipe": "C",
+  "lolus": true,
+  "kata": 9917,
+  "anggaran": 10500,
+  "dev": -5.6,
+  "temuan": [],
+  "err": null
+ }
+}

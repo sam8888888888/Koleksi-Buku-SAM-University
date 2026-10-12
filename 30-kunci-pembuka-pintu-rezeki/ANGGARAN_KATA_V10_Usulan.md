@@ -1,0 +1,115 @@
+# ANGGARAN KATA V10 — 30 KUNCI PEMBUKA PINTU REZEKI
+
+Disusun otomatis 2026-10-07 dari TOC_V10 memakai rumus Prompt Master Bagian 2 (● 700, ◐ 400, ○ 200, +1.200 per bab).
+Penanda mengikuti PENANDA_KEDALAMAN_V10_Usulan.md. Toleransi: sub-bab ±20 persen, bab ±10 persen. Empat bab pertama (1, 9, 20, 66) sudah diuji: 0 sub-bab di luar rentang; deviasi Bab 9 +0,9%, Bab 20 +0,8%, Bab 66 -0,0%. Tiga bab pilot (9, 20, 66) sudah diuji: 0 sub-bab di luar rentang, deviasi bab +0,9% / +0,8% / -0,0%.
+Rumus: sub-bab pertama = ●; judul berisi kata kunci inti (definisi, pengertian, rukun, syarat, dalil, tafsir, prinsip, sebab, ujian, anatomi, kaidah, makna) = ●; judul berisi kata kunci ringkas (praktik, checklist, daftar, ringkas, indeks, templat, jadwal, faq, lampiran, entri, lembar) = ○; sisanya ◐ berselang; pada bab lebih dari 18 sub-bab, posisi terakhir seperempat menjadi ○.
+
+| Bab | Judul | ● | ◐ | ○ | Anggaran kata | Naskah (bila sudah ditulis) | Selisih |
+|---|---|---|---|---|---|---|---|
+| 1 | (lihat TOC) | 5 | 12 | 0 | 9500 | 9077 | -4.5% |
+| 2 | (lihat TOC) | 4 | 11 | 1 | 8600 | - | - |
+| 3 | (lihat TOC) | 3 | 13 | 0 | 8500 | - | - |
+| 4 | (lihat TOC) | 3 | 10 | 0 | 7300 | - | - |
+| 5 | (lihat TOC) | 1 | 7 | 1 | 4900 | - | - |
+| 6 | (lihat TOC) | 2 | 14 | 1 | 8400 | - | - |
+| 7 | (lihat TOC) | 2 | 4 | 3 | 4800 | - | - |
+| 8 | (lihat TOC) | 1 | 13 | 0 | 7100 | - | - |
+| 9 | (lihat TOC) | 6 | 9 | 1 | 9200 | 9279 | +0.9% |
+| 10 | (lihat TOC) | 1 | 13 | 0 | 7100 | - | - |
+| 11 | (lihat TOC) | 1 | 8 | 0 | 5100 | - | - |
+| 12 | (lihat TOC) | 5 | 12 | 2 | 9900 | - | - |
+| 13 | (lihat TOC) | 0 | 16 | 3 | 8200 | - | - |
+| 14 | (lihat TOC) | 1 | 16 | 3 | 8900 | - | - |
+| 15 | (lihat TOC) | 2 | 10 | 1 | 6800 | - | - |
+| 16 | (lihat TOC) | 1 | 12 | 1 | 6900 | - | - |
+| 17 | (lihat TOC) | 3 | 12 | 1 | 8300 | - | - |
+| 18 | (lihat TOC) | 1 | 6 | 1 | 4500 | - | - |
+| 19 | (lihat TOC) | 2 | 16 | 3 | 9600 | - | - |
+| 20 | (lihat TOC) | 7 | 7 | 2 | 9300 | 9372 | +0.8% |
+| 21 | (lihat TOC) | 3 | 7 | 1 | 6300 | - | - |
+| 22 | (lihat TOC) | 2 | 8 | 1 | 6000 | - | - |
+| 23 | (lihat TOC) | 2 | 9 | 1 | 6400 | - | - |
+| 24 | (lihat TOC) | 2 | 10 | 1 | 6800 | - | - |
+| 25 | (lihat TOC) | 1 | 8 | 1 | 5300 | - | - |
+| 26 | (lihat TOC) | 4 | 7 | 1 | 7000 | - | - |
+| 27 | (lihat TOC) | 2 | 9 | 1 | 6400 | - | - |
+| 28 | (lihat TOC) | 2 | 7 | 2 | 5800 | - | - |
+| 29 | (lihat TOC) | 1 | 8 | 1 | 5300 | - | - |
+| 30 | (lihat TOC) | 3 | 7 | 1 | 6300 | - | - |
+| 31 | (lihat TOC) | 4 | 6 | 1 | 6600 | - | - |
+| 32 | (lihat TOC) | 2 | 9 | 1 | 6400 | - | - |
+| 33 | (lihat TOC) | 1 | 15 | 1 | 8100 | - | - |
+| 34 | (lihat TOC) | 1 | 10 | 1 | 6100 | - | - |
+| 35 | (lihat TOC) | 3 | 7 | 1 | 6300 | - | - |
+| 36 | (lihat TOC) | 1 | 12 | 1 | 6900 | - | - |
+| 37 | (lihat TOC) | 2 | 13 | 2 | 8200 | - | - |
+| 38 | (lihat TOC) | 2 | 7 | 1 | 5600 | - | - |
+| 39 | (lihat TOC) | 1 | 13 | 1 | 7300 | - | - |
+| 40 | (lihat TOC) | 1 | 10 | 1 | 6100 | - | - |
+| 41 | (lihat TOC) | 2 | 13 | 2 | 8200 | - | - |
+| 42 | (lihat TOC) | 1 | 11 | 1 | 6500 | - | - |
+| 43 | (lihat TOC) | 1 | 10 | 1 | 6100 | - | - |
+| 44 | (lihat TOC) | 1 | 12 | 1 | 6900 | - | - |
+| 45 | (lihat TOC) | 2 | 8 | 1 | 6000 | - | - |
+| 46 | (lihat TOC) | 1 | 10 | 1 | 6100 | - | - |
+| 47 | (lihat TOC) | 1 | 9 | 1 | 5700 | - | - |
+| 48 | (lihat TOC) | 3 | 7 | 2 | 6500 | - | - |
+| 49 | (lihat TOC) | 2 | 7 | 1 | 5600 | - | - |
+| 50 | (lihat TOC) | 1 | 8 | 1 | 5300 | - | - |
+| 51 | (lihat TOC) | 1 | 7 | 1 | 4900 | - | - |
+| 52 | (lihat TOC) | 3 | 9 | 1 | 7100 | - | - |
+| 53 | (lihat TOC) | 2 | 7 | 1 | 5600 | - | - |
+| 54 | (lihat TOC) | 2 | 9 | 1 | 6400 | - | - |
+| 55 | (lihat TOC) | 1 | 11 | 1 | 6500 | - | - |
+| 56 | (lihat TOC) | 1 | 15 | 3 | 8500 | - | - |
+| 57 | (lihat TOC) | 2 | 12 | 2 | 7800 | - | - |
+| 58 | (lihat TOC) | 1 | 6 | 1 | 4500 | - | - |
+| 59 | (lihat TOC) | 2 | 7 | 2 | 5800 | - | - |
+| 60 | (lihat TOC) | 5 | 10 | 1 | 8900 | - | - |
+| 61 | (lihat TOC) | 2 | 13 | 1 | 8000 | - | - |
+| 62 | (lihat TOC) | 3 | 14 | 1 | 9100 | - | - |
+| 63 | (lihat TOC) | 1 | 6 | 2 | 4700 | - | - |
+| 64 | (lihat TOC) | 1 | 7 | 1 | 4900 | - | - |
+| 65 | (lihat TOC) | 2 | 10 | 1 | 6800 | - | - |
+| 66 | (lihat TOC) | 3 | 14 | 8 | 10500 | 10497 | -0.0% |
+| 67 | (lihat TOC) | 4 | 9 | 1 | 7800 | - | - |
+| 68 | (lihat TOC) | 2 | 8 | 1 | 6000 | - | - |
+| 69 | (lihat TOC) | 2 | 9 | 1 | 6400 | - | - |
+| 70 | (lihat TOC) | 1 | 13 | 1 | 7300 | - | - |
+| 71 | (lihat TOC) | 1 | 14 | 1 | 7700 | - | - |
+| 72 | (lihat TOC) | 3 | 8 | 1 | 6700 | - | - |
+| 73 | (lihat TOC) | 1 | 16 | 3 | 8900 | - | - |
+| 74 | (lihat TOC) | 1 | 7 | 1 | 4900 | - | - |
+| 75 | (lihat TOC) | 2 | 11 | 2 | 7400 | - | - |
+| 76 | (lihat TOC) | 2 | 15 | 2 | 9000 | - | - |
+| 77 | (lihat TOC) | 2 | 16 | 3 | 9600 | - | - |
+| 78 | (lihat TOC) | 2 | 12 | 1 | 7600 | - | - |
+| 79 | (lihat TOC) | 1 | 15 | 3 | 8500 | - | - |
+| 80 | (lihat TOC) | 1 | 10 | 1 | 6100 | - | - |
+| 81 | (lihat TOC) | 1 | 15 | 1 | 8100 | - | - |
+| 82 | (lihat TOC) | 1 | 23 | 3 | 11700 | - | - |
+| 83 | (lihat TOC) | 2 | 15 | 0 | 8600 | - | - |
+| 84 | (lihat TOC) | 1 | 10 | 3 | 6500 | - | - |
+| 85 | (lihat TOC) | 1 | 9 | 2 | 5900 | - | - |
+| 86 | (lihat TOC) | 1 | 7 | 1 | 4900 | - | - |
+| 87 | (lihat TOC) | 1 | 8 | 1 | 5300 | - | - |
+| 88 | (lihat TOC) | 2 | 9 | 1 | 6400 | - | - |
+| 89 | (lihat TOC) | 2 | 12 | 2 | 7800 | - | - |
+| 90 | (lihat TOC) | 3 | 8 | 2 | 6900 | - | - |
+| 91 | (lihat TOC) | 2 | 10 | 1 | 6800 | - | - |
+| 92 | (lihat TOC) | 1 | 3 | 8 | 4700 | - | - |
+| 93 | (lihat TOC) | 1 | 9 | 0 | 5500 | - | - |
+| 94 | (lihat TOC) | 1 | 9 | 0 | 5500 | - | - |
+| 95 | (lihat TOC) | 1 | 15 | 0 | 7900 | - | - |
+| 96 | (lihat TOC) | 1 | 12 | 1 | 6900 | - | - |
+| 97 | (lihat TOC) | 1 | 9 | 1 | 5700 | - | - |
+| 98 | (lihat TOC) | 1 | 7 | 1 | 4900 | - | - |
+| 99 | (lihat TOC) | 1 | 8 | 0 | 5100 | - | - |
+| 100 | (lihat TOC) | 1 | 8 | 0 | 5100 | - | - |
+| 101 | (lihat TOC) | 1 | 8 | 1 | 5300 | - | - |
+| 102 | (lihat TOC) | 3 | 12 | 0 | 8100 | - | - |
+| 103 | (lihat TOC) | 1 | 31 | 5 | 15300 | - | - |
+| 104 | (lihat TOC) | 1 | 28 | 3 | 13700 | - | - |
+| 105 | (lihat TOC) | 2 | 55 | 11 | 26800 | - | - |
+
+**Total sub-bab: 1.511 | Total anggaran badan buku: 758,300 kata** (Prompt Master memperkirakan ±798.000).

@@ -1,0 +1,527 @@
+{
+ "1": {
+  "lolus": true,
+  "kata": 10125,
+  "dev": 6.6
+ },
+ "2": {
+  "lolus": true,
+  "kata": 9321,
+  "dev": 8.4
+ },
+ "3": {
+  "lolus": true,
+  "kata": 9298,
+  "dev": 9.4
+ },
+ "4": {
+  "lolus": true,
+  "kata": 7679,
+  "dev": 5.2
+ },
+ "5": {
+  "lolus": true,
+  "kata": 5314,
+  "dev": 8.4
+ },
+ "6": {
+  "lolus": true,
+  "kata": 8547,
+  "dev": 1.8
+ },
+ "7": {
+  "lolus": true,
+  "kata": 4923,
+  "dev": 2.6
+ },
+ "8": {
+  "lolus": true,
+  "kata": 7584,
+  "dev": 6.8
+ },
+ "9": {
+  "lolus": true,
+  "kata": 10027,
+  "dev": 9.0
+ },
+ "10": {
+  "lolus": true,
+  "kata": 6654,
+  "dev": -6.3
+ },
+ "11": {
+  "lolus": true,
+  "kata": 4602,
+  "dev": -9.8
+ },
+ "12": {
+  "lolus": true,
+  "kata": 9133,
+  "dev": -7.7
+ },
+ "13": {
+  "lolus": true,
+  "kata": 7703,
+  "dev": -6.1
+ },
+ "14": {
+  "lolus": true,
+  "kata": 8101,
+  "dev": -9.0
+ },
+ "15": {
+  "lolus": true,
+  "kata": 6991,
+  "dev": 2.8
+ },
+ "16": {
+  "lolus": true,
+  "kata": 6639,
+  "dev": -3.8
+ },
+ "17": {
+  "lolus": true,
+  "kata": 8868,
+  "dev": 6.8
+ },
+ "18": {
+  "lolus": true,
+  "kata": 4292,
+  "dev": -4.6
+ },
+ "19": {
+  "lolus": true,
+  "kata": 8861,
+  "dev": -7.7
+ },
+ "20": {
+  "lolus": true,
+  "kata": 10011,
+  "dev": 7.6
+ },
+ "21": {
+  "lolus": true,
+  "kata": 6420,
+  "dev": 1.9
+ },
+ "22": {
+  "lolus": true,
+  "kata": 6218,
+  "dev": 3.6
+ },
+ "23": {
+  "lolus": true,
+  "kata": 6973,
+  "dev": 9.0
+ },
+ "24": {
+  "lolus": true,
+  "kata": 7242,
+  "dev": 6.5
+ },
+ "25": {
+  "lolus": true,
+  "kata": 5451,
+  "dev": 2.8
+ },
+ "26": {
+  "lolus": true,
+  "kata": 7215,
+  "dev": 3.1
+ },
+ "27": {
+  "lolus": true,
+  "kata": 6742,
+  "dev": 5.3
+ },
+ "28": {
+  "lolus": true,
+  "kata": 6139,
+  "dev": 5.8
+ },
+ "29": {
+  "lolus": true,
+  "kata": 5741,
+  "dev": 8.3
+ },
+ "30": {
+  "lolus": true,
+  "kata": 6380,
+  "dev": 1.3
+ },
+ "31": {
+  "lolus": true,
+  "kata": 6431,
+  "dev": -2.6
+ },
+ "32": {
+  "lolus": true,
+  "kata": 6242,
+  "dev": -2.5
+ },
+ "33": {
+  "lolus": true,
+  "kata": 7743,
+  "dev": -4.4
+ },
+ "34": {
+  "lolus": true,
+  "kata": 5780,
+  "dev": -5.2
+ },
+ "35": {
+  "lolus": true,
+  "kata": 6293,
+  "dev": -0.1
+ },
+ "36": {
+  "lolus": true,
+  "kata": 6230,
+  "dev": -9.7
+ },
+ "37": {
+  "lolus": true,
+  "kata": 7832,
+  "dev": -4.5
+ },
+ "38": {
+  "lolus": true,
+  "kata": 6070,
+  "dev": 8.4
+ },
+ "39": {
+  "lolus": true,
+  "kata": 6613,
+  "dev": -9.4
+ },
+ "40": {
+  "lolus": true,
+  "kata": 5669,
+  "dev": -7.1
+ },
+ "41": {
+  "lolus": true,
+  "kata": 7469,
+  "dev": -8.9
+ },
+ "42": {
+  "lolus": true,
+  "kata": 6347,
+  "dev": -2.4
+ },
+ "43": {
+  "lolus": true,
+  "kata": 6194,
+  "dev": 1.5
+ },
+ "44": {
+  "lolus": true,
+  "kata": 6398,
+  "dev": -7.3
+ },
+ "45": {
+  "lolus": true,
+  "kata": 5914,
+  "dev": -1.4
+ },
+ "46": {
+  "lolus": true,
+  "kata": 6290,
+  "dev": 3.1
+ },
+ "47": {
+  "lolus": true,
+  "kata": 6013,
+  "dev": 5.5
+ },
+ "48": {
+  "lolus": true,
+  "kata": 6885,
+  "dev": 5.9
+ },
+ "49": {
+  "lolus": true,
+  "kata": 5970,
+  "dev": 6.6
+ },
+ "50": {
+  "lolus": true,
+  "kata": 5403,
+  "dev": 1.9
+ },
+ "51": {
+  "lolus": true,
+  "kata": 4727,
+  "dev": -3.5
+ },
+ "52": {
+  "lolus": true,
+  "kata": 6845,
+  "dev": -3.6
+ },
+ "53": {
+  "lolus": true,
+  "kata": 5337,
+  "dev": -4.7
+ },
+ "54": {
+  "lolus": true,
+  "kata": 6961,
+  "dev": 8.8
+ },
+ "55": {
+  "lolus": true,
+  "kata": 6908,
+  "dev": 6.3
+ },
+ "56": {
+  "lolus": true,
+  "kata": 8847,
+  "dev": 4.1
+ },
+ "57": {
+  "lolus": true,
+  "kata": 7472,
+  "dev": -4.2
+ },
+ "58": {
+  "lolus": true,
+  "kata": 4646,
+  "dev": 3.2
+ },
+ "59": {
+  "lolus": true,
+  "kata": 6018,
+  "dev": 3.8
+ },
+ "60": {
+  "lolus": true,
+  "kata": 9022,
+  "dev": 1.4
+ },
+ "61": {
+  "lolus": true,
+  "kata": 8538,
+  "dev": 6.7
+ },
+ "62": {
+  "lolus": true,
+  "kata": 9231,
+  "dev": 1.4
+ },
+ "63": {
+  "lolus": true,
+  "kata": 4626,
+  "dev": -1.6
+ },
+ "64": {
+  "lolus": true,
+  "kata": 4949,
+  "dev": 1.0
+ },
+ "65": {
+  "lolus": true,
+  "kata": 7095,
+  "dev": 4.3
+ },
+ "66": {
+  "lolus": true,
+  "kata": 10528,
+  "dev": 0.3
+ },
+ "67": {
+  "lolus": true,
+  "kata": 7627,
+  "dev": -2.2
+ },
+ "68": {
+  "lolus": true,
+  "kata": 5484,
+  "dev": -8.6
+ },
+ "69": {
+  "lolus": true,
+  "kata": 6770,
+  "dev": 5.8
+ },
+ "70": {
+  "lolus": true,
+  "kata": 7570,
+  "dev": 3.7
+ },
+ "71": {
+  "lolus": true,
+  "kata": 7667,
+  "dev": -0.4
+ },
+ "72": {
+  "lolus": true,
+  "kata": 6775,
+  "dev": 1.1
+ },
+ "73": {
+  "lolus": true,
+  "kata": 9354,
+  "dev": 5.1
+ },
+ "74": {
+  "lolus": true,
+  "kata": 4639,
+  "dev": -5.3
+ },
+ "75": {
+  "lolus": true,
+  "kata": 6981,
+  "dev": -5.7
+ },
+ "76": {
+  "lolus": true,
+  "kata": 9017,
+  "dev": 0.2
+ },
+ "77": {
+  "lolus": true,
+  "kata": 10269,
+  "dev": 7.0
+ },
+ "78": {
+  "lolus": true,
+  "kata": 8139,
+  "dev": 7.1
+ },
+ "79": {
+  "lolus": true,
+  "kata": 8754,
+  "dev": 3.0
+ },
+ "80": {
+  "lolus": true,
+  "kata": 6142,
+  "dev": 0.7
+ },
+ "81": {
+  "lolus": true,
+  "kata": 8223,
+  "dev": 1.5
+ },
+ "82": {
+  "lolus": true,
+  "kata": 12141,
+  "dev": 3.8
+ },
+ "83": {
+  "lolus": true,
+  "kata": 9131,
+  "dev": 6.2
+ },
+ "84": {
+  "lolus": true,
+  "kata": 6315,
+  "dev": -2.8
+ },
+ "85": {
+  "lolus": true,
+  "kata": 5684,
+  "dev": -3.7
+ },
+ "86": {
+  "lolus": true,
+  "kata": 4781,
+  "dev": -2.4
+ },
+ "87": {
+  "lolus": true,
+  "kata": 5588,
+  "dev": 5.4
+ },
+ "88": {
+  "lolus": true,
+  "kata": 6387,
+  "dev": -0.2
+ },
+ "89": {
+  "lolus": true,
+  "kata": 8041,
+  "dev": 3.1
+ },
+ "90": {
+  "lolus": true,
+  "kata": 7201,
+  "dev": 4.4
+ },
+ "91": {
+  "lolus": true,
+  "kata": 6383,
+  "dev": -6.1
+ },
+ "92": {
+  "lolus": true,
+  "kata": 4388,
+  "dev": -6.6
+ },
+ "93": {
+  "lolus": true,
+  "kata": 5064,
+  "dev": -7.9
+ },
+ "94": {
+  "lolus": true,
+  "kata": 5368,
+  "dev": -2.4
+ },
+ "95": {
+  "lolus": true,
+  "kata": 7689,
+  "dev": -2.7
+ },
+ "96": {
+  "lolus": true,
+  "kata": 6244,
+  "dev": -9.5
+ },
+ "97": {
+  "lolus": true,
+  "kata": 5788,
+  "dev": 1.5
+ },
+ "98": {
+  "lolus": true,
+  "kata": 5135,
+  "dev": 4.8
+ },
+ "99": {
+  "lolus": true,
+  "kata": 5072,
+  "dev": -0.5
+ },
+ "100": {
+  "lolus": true,
+  "kata": 4979,
+  "dev": -2.4
+ },
+ "101": {
+  "lolus": true,
+  "kata": 5194,
+  "dev": -2.0
+ },
+ "102": {
+  "lolus": true,
+  "kata": 8261,
+  "dev": 2.0
+ },
+ "103": {
+  "lolus": true,
+  "kata": 15500,
+  "dev": 1.3
+ },
+ "104": {
+  "lolus": true,
+  "kata": 13912,
+  "dev": 1.5
+ },
+ "105": {
+  "lolus": true,
+  "kata": 9917,
+  "dev": -5.6
+ }
+}

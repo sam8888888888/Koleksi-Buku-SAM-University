@@ -1,0 +1,192 @@
+# Lampiran M. Indeks Ayat Al-Qur'an
+
+Indeks ayat-ayat Al-Qur'an yang dirujuk dalam buku ini, diurutkan menurut urutan surah dalam mushaf. Kolom "Bab" menunjukkan bab-bab yang memuat ayat tersebut. Seluruh teks Arab terverifikasi terhadap api.alquran.cloud (quran-uthmani).
+
+| Surah | Ayat | Digunakan di |
+|---|---|---|
+| Adz-Dzariyat | 58 | Bab 1, Bab 2 |
+| Adz-Dzariyat | 22 | Bab 2 |
+| Adz-Dzariyat | 19 | Bab 16 |
+| Adz-Dzariyat | 17 | Bab 26 |
+| Adz-Dzariyat | 18 | Bab 26 |
+| Adz-Dzariyat | 19 | Bab 65 |
+| Al-A'raf | 96 | Bab 1 |
+| Al-A'raf | 180 | Bab 2 |
+| Al-A'raf | 31 | Bab 4 |
+| Al-A'raf | 56 | Bab 18 |
+| Al-A'raf | 199 | Bab 63 |
+| Al-Ahzab | 56 | Bab 47 |
+| Al-An'am | 151 | Bab 37 |
+| Al-An'am | 162 | Bab 63 |
+| Al-Anbiya | 83-84 | Bab 52 |
+| Al-Anfal | 27 | Bab 77 |
+| Al-Ankabut | 60 | Bab 1, Bab 2 |
+| Al-Baqarah | 201 |  |
+| Al-Baqarah | 155 | Bab 1 |
+| Al-Baqarah | 172 | Bab 1 |
+| Al-Baqarah | 268 | Bab 3 |
+| Al-Baqarah | 168 | Bab 4 |
+| Al-Baqarah | 188 | Bab 5 |
+| Al-Baqarah | 275 | Bab 13 |
+| Al-Baqarah | 273 | Bab 17 |
+| Al-Baqarah | 127 | Bab 22 |
+| Al-Baqarah | 45 | Bab 24 |
+| Al-Baqarah | 153 | Bab 24 |
+| Al-Baqarah | 183 | Bab 32 |
+| Al-Baqarah | 184 | Bab 32 |
+| Al-Baqarah | 185 | Bab 32 |
+| Al-Baqarah | 261 | Bab 33 |
+| Al-Baqarah | 262 | Bab 33 |
+| Al-Baqarah | 267 | Bab 33 |
+| Al-Baqarah | 274 | Bab 33 |
+| Al-Baqarah | 245 | Bab 34 |
+| Al-Baqarah | 186 | Bab 27 |
+| Al-Baqarah | 152 | Bab 28 |
+| Al-Baqarah | 233 | Bab 37 |
+| Al-Baqarah | 282 | Bab 41 |
+| Al-Baqarah | 198 | Bab 48 |
+| Al-Baqarah | 280 | Bab 50 |
+| Al-Baqarah | 155-157 | Bab 52 |
+| Al-Baqarah | 286 | Bab 56 |
+| Al-Baqarah | 156 | Bab 58 |
+| Al-Baqarah | 157 | Bab 58 |
+| Al-Baqarah | 275-281 | Bab 60 |
+| Al-Baqarah | 275-279 | Bab 61 |
+| Al-Baqarah | 283 | Bab 69 |
+| Al-Fajr | 15-20 | Bab 1 |
+| Al-Fajr | 15-16 | Bab 55 |
+| Al-Falaq | 5 | Bab 64 |
+| Al-Furqan | 67 | Bab 65 |
+| Al-Hadid | 7 | Bab 10 |
+| Al-Hadid | 22 | Bab 58 |
+| Al-Hasyr | 7 | Bab 10 |
+| Al-Hujurat | 6 | Bab 73, Bab 74 |
+| Al-Insyirah | 5 | Bab 56 |
+| Al-Insyirah | 6 | Bab 56 |
+| Al-Insyirah | 5 | Bab 56 |
+| Al-Isra | 36 | Bab 7 |
+| Al-Isra | 18 | Bab 22 |
+| Al-Isra | 19 | Bab 22 |
+| Al-Isra | 79 | Bab 26 |
+| Al-Isra | 9 | Bab 30 |
+| Al-Isra | 23 | Bab 36 |
+| Al-Isra | 31 | Bab 37 |
+| Al-Isra | 30 | Bab 52 |
+| Al-Isra | 26 | Bab 65 |
+| Al-Isra | 26-29 | Bab 79 |
+| Al-Isra | 23-24 | Bab 82 |
+| Al-Jumu'ah | 10 | Bab 3 |
+| Al-Jumu'ah | 9 | Bab 94 |
+| Al-Jumu'ah | 10 | Bab 94 |
+| Al-Kahfi | 32-44 | Bab 55 |
+| Al-Ma'arij | 24-25 | Bab 19 |
+| Al-Ma'idah | 1 | Bab 1 |
+| Al-Ma'idah | 88 | Bab 4 |
+| Al-Ma'idah | 90 | Bab 13 |
+| Al-Ma'idah | 23 | Bab 21 |
+| Al-Ma'idah | 2 | Bab 88 |
+| Al-Ma'un | 1 | Bab 17 |
+| Al-Mujadilah | 11 | Bab 43 |
+| Al-Mulk | 15 | Bab 39 |
+| Al-Muthaffifin | 1-6 | Bab 40 |
+| Al-Qalam | 17-33 | Bab 55 |
+| Al-Qashash | 77 | Bab 10 |
+| Al-Qashash | 26 | Bab 42 |
+| Al-Qashash | 24 | Bab 52 |
+| Al-Qashash | 76-82 | Bab 55 |
+| Al-Qashash | 26 | Bab 69 |
+| Al-Waqi'ah | 63 | Bab 31 |
+| Al-Waqi'ah | 64 | Bab 31 |
+| Al-Waqi'ah | 65 | Bab 31 |
+| Al-Waqi'ah | 66 | Bab 31 |
+| Al-Waqi'ah | 67 | Bab 31 |
+| Al-Waqi'ah | 68 | Bab 31 |
+| Al-Waqi'ah | 69 | Bab 31 |
+| Al-Waqi'ah | 70 | Bab 31 |
+| Al-Waqi'ah | 71 | Bab 31 |
+| Al-Waqi'ah | 72 | Bab 31 |
+| Al-Waqi'ah | 73 | Bab 31 |
+| Al-Waqi'ah | 74 | Bab 31 |
+| Al-Waqi'ah | 82 | Bab 31 |
+| Ali 'Imran | 8 | Bab 2 |
+| Ali 'Imran | 159 | Bab 21 |
+| Ali 'Imran | 173 | Bab 21 |
+| Ali 'Imran | 161 | Bab 5 |
+| Ali 'Imran | 130 | Bab 60 |
+| Ali Imran | 37 | Bab 1 |
+| Ali Imran | 180 | Bab 65 |
+| An-Nahl | 125 | Bab 44 |
+| An-Nahl | 80 | Bab 87 |
+| An-Naml | 40 | Bab 23 |
+| An-Nisa | 29 | Bab 1 |
+| An-Nisa | 85 | Bab 34 |
+| An-Nisa | 1 | Bab 35 |
+| An-Nisa | 34 | Bab 37 |
+| An-Nisa | 160-161 | Bab 60 |
+| An-Nisa | 32 | Bab 64 |
+| An-Nisa | 58 | Bab 73, Bab 74 |
+| An-Nisa | 9 | Bab 82 |
+| An-Nisa | 7-9 | Bab 89 |
+| An-Nisa | 176 | Bab 89 |
+| An-Nisa | 2 | Bab 98 |
+| An-Nisa | 6 | Bab 98 |
+| An-Nisa | 10 | Bab 98 |
+| An-Nisa' | 58 | Bab 17 |
+| An-Nur | 32 | Bab 37 |
+| Ar-Ra'd | 26 | Bab 1 |
+| Ar-Ra'd | 28 | Bab 28 |
+| Ar-Rum | 41 | Bab 4 |
+| Ar-Rum | 39 | Bab 60 |
+| As-Sajdah | 16 | Bab 26 |
+| Asy-Syura | 19 | Bab 2 |
+| Asy-Syura | 11 | Bab 2 |
+| Asy-Syura | 27 | Bab 3 |
+| Asy-Syura | 30 | Bab 52 |
+| At-Taghabun | 11 | Bab 58 |
+| At-Tahrim | 8 | Bab 59 |
+| At-Talaq | 2-3 | Bab 1 |
+| At-Talaq | 2-4 | Bab 1 |
+| At-Talaq | 7 | Bab 56 |
+| At-Taubah | 28 | Bab 3 |
+| At-Taubah | 34 | Bab 10 |
+| At-Taubah | 60 | Bab 17 |
+| At-Taubah | 103 | Bab 17 |
+| At-Taubah | 75-77 | Bab 55 |
+| At-Taubah | 71 | Bab 88 |
+| Az-Zukhruf | 32 | Bab 3 |
+| Az-Zumar | 9 | Bab 43 |
+| Az-Zumar | 53 | Bab 57 |
+| Fathir | 15 | Bab 2 |
+| Ghafir | 60 | Bab 27 |
+| Ghafir | 7 | Bab 61 |
+| Hud | 6 | Bab 1, Bab 2 |
+| Hud | 61 | Bab 18 |
+| Hud | 15 | Bab 22 |
+| Hud | 16 | Bab 22 |
+| Hud | 3 | Bab 29 |
+| Hud | 52 | Bab 29 |
+| Hud | 29 | Bab 44 |
+| Ibrahim | 7 | Bab 23 |
+| Ibrahim | 40 | Bab 24 |
+| Ibrahim | 37 | Bab 52 |
+| Luqman | 14 | Bab 36 |
+| Luqman | 15 | Bab 63 |
+| Maryam | 59 | Bab 24 |
+| Muhammad | 22 | Bab 35 |
+| Nuh | 10 | Bab 29 |
+| Nuh | 11 | Bab 29 |
+| Nuh | 12 | Bab 29 |
+| Nuh | 28 | Bab 29 |
+| Quraisy | 1-4 | Bab 72 |
+| Saba' | 26 | Bab 2 |
+| Saba' | 39 | Bab 2 |
+| Saba' | 13 | Bab 23 |
+| Saba’ | 39 | Bab 33 |
+| Shad | 24 | Bab 68 |
+| Thaha | 132 | Bab 24 |
+| Thaha | 123 | Bab 30 |
+| Thaha | 124 | Bab 30 |
+| Thaha | 114 | Bab 30 |
+| Yusuf | 23-56 | Bab 49 |
+| Yusuf | 87 | Bab 57 |
+| Yusuf | 47-49 | Bab 80 |

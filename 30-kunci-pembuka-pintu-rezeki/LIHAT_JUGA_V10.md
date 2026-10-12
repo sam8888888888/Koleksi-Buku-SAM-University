@@ -1,0 +1,107 @@
+# LIHAT JUGA V10 (cross-check nomor bab)
+
+- Bab 1: Lihat juga: Bab 2 (Ar-Razzaq), Bab 4 (Halal dan Thayyib), dan Bab 9 (Sebab, Bukan Jaminan)
+- Bab 2: Lihat juga: Bab 1 (Kamus Rezeki), Bab 27 (Doa), dan Bab 28 (Zikir)
+- Bab 3: Lihat juga: Bab 9 (Sebab, Bukan Jaminan), Bab 21 (Tawakal), dan Bab 53 (Sabar dan Ridha)
+- Bab 4: Lihat juga: Bab 13 (Rambu-Rambu Transaksi), Bab 49 (Meninggalkan yang Haram), dan Bab 66 (Anatomi Akad)
+- Bab 5: Lihat juga: Bab 4 (Halal dan Thayyib 1), Bab 49 (Meninggalkan yang Haram), Bab 66 (Anatomi Akad), dan Bab 42 (Hak Pekerja dan Pemberi Kerja)
+- Bab 6: Lihat juga: Bab 8 (Peta 7 Pintu), Bab 45 (Qana'ah), dan Bab 78 (Modal Manusia)
+- Bab 7: Lihat juga: Bab 8 (Peta 7 Pintu), Bab 9 (Sebab, Bukan Jaminan), Bab 102 (Rapor Rezeki), dan Lampiran A dan J
+- Bab 8: Lihat juga: Bab 9 (Sebab, Bukan Jaminan), Bab 102 (Rapor Rezeki), dan Lampiran A
+- Bab 9: Lihat juga: Bab 3 (Takdir), Bab 8 (Peta 7 Pintu), dan Bab 103 (Mitos Rezeki)
+- Bab 10: Lihat juga: Bab 11 (Maqashid), Bab 16 (Ekosistem Rezeki), dan Bab 91 (Wakaf)
+- Bab 11: Lihat juga: Bab 12 (Kaidah Fiqh), Bab 13 (Rambu-Rambu Transaksi), dan Bab 81 (Penjagaan Harta)
+- Bab 12: Lihat juga: Bab 11 (Maqashid), Bab 13 (Rambu-Rambu Transaksi), dan Bab 66 (Anatomi Akad)
+- Bab 13: Lihat juga: Bab 60 (Riba), Bab 62 (Judi dan Gharar), dan Bab 66 (Anatomi Akad)
+- Bab 14: Lihat juga: Bab 10 (Pandangan Dunia Ekonomi Islam), Bab 15 (Kelembagaan), dan Bab 88 (Ekonomi Umat)
+- Bab 15: Lihat juga: Bab 66 (Lembar Pembedah Akad), Bab 85 (Perbankan Syariah), dan Lampiran L
+- Bab 16: Lihat juga: Bab 17 (Pajak, Inflasi, dan Utang Negara), Bab 18 (Amanah Bumi), dan Bab 19 (Kemiskinan)
+- Bab 17: Lihat juga: Bab 16 (Ekosistem Rezeki), Bab 77 (pajak usaha dan penggajian), Bab 84 (zakat dan pajak), Bab 86 (BPJS dan jaminan sosial), dan Bab 103 (mitos penghasilan tersembunyi)
+- Bab 18: Lihat juga: Bab 4, Bab 16, Bab 65, dan Bab 75
+- Bab 19: Lihat juga: Bab 16 (Ekosistem Rezeki), Bab 33 (Sedekah), dan Bab 84 (Zakat dalam Praktik)
+- Bab 20: Lihat juga: Bab 39 (Kerja), Bab 49 (Meninggalkan yang Haram), dan Bab 59 (Dosa dan Maksiat)
+- Bab 21: Lihat juga: Bab 3 (Takdir), Bab 53 (Sabar dan Ridha), dan Bab 56 (Bangkit dari Krisis)
+- Bab 22: Lihat juga: Bab 9 (Sebab, Bukan Jaminan), Bab 39 (Kerja), dan Bab 44 (Dakwah)
+- Bab 23: Lihat juga: Bab 45 (Qana'ah), Bab 55 (Harta Bukan Ukuran Kemuliaan), dan Bab 64 (Penyakit Hati)
+- Bab 24: Lihat juga: Bab 92 (Jadwal Harian), Bab 99 (Tantangan 90 Hari), dan Bab 32 (Puasa dan Ramadan)
+- Bab 25: Lihat juga: Bab 38 (Waktu Pagi), Bab 92 (Jadwal Harian), dan Bab 99 (Tantangan 90 Hari)
+- Bab 26: Lihat juga: Bab 27 (Doa), Bab 57 (Ketika Jiwa Lelah), dan Bab 92 (Jadwal Harian)
+- Bab 27: Lihat juga: Bab 26 (Tahajud), Bab 28 (Zikir), dan Bab 9 (Mengapa Doa Tidak Selalu Berwujud Uang)
+- Bab 28: Lihat juga: Bab 27 (Doa), Bab 29 (Istighfar), dan Bab 57 (Ketika Jiwa Lelah)
+- Bab 29: Lihat juga: Bab 28 (Zikir), Bab 56 (Bangkit dari Krisis), dan Bab 59 (Dosa dan Maksiat)
+- Bab 30: Lihat juga: Bab 31 (Al-Waqi'ah), Bab 43 (Majelis Ilmu), dan Bab 44 (Dakwah)
+- Bab 31: Lihat juga: Bab 30 (Al-Qur'an), Bab 9 (Sebab, Bukan Jaminan), dan Bab 103 (Mitos Rezeki)
+- Bab 32: Lihat juga: Bab 45 (Qana'ah), Bab 65 (Kikir, Boros, dan Psikologi Uang), dan Bab 84 (Zakat dalam Praktik)
+- Bab 33: Lihat juga: Bab 9 (Sebab, Bukan Jaminan), Bab 16 dan 19 (sedekah dalam konteks masyarakat), Bab 41 (sedekah dan utang), Bab 83 (zakat)
+- Bab 34: Lihat juga: Bab 16 dan Bab 19
+- Bab 35: Lihat juga: Bab 36 (Berbakti kepada Orang Tua), Bab 37 (Menikah), dan Bab 57 (Ketika Jiwa Lelah)
+- Bab 36: Lihat juga: Bab 35 (Silaturahmi), Bab 37 (Menikah), dan Bab 90 (Wasiat dan Hibah)
+- Bab 37: Lihat juga: Bab 82 (Siklus Hidup Keuangan), Bab 93 (Panduan Muslimah), dan Bab 94 (Panduan Muslim)
+- Bab 38: Lihat juga: Bab 24 (shalat Subuh berjamaah) dan Bab 6 (dua nikmat: kesehatan dan waktu luang)
+- Bab 39: Lihat juga: Bab 78 (Modal Manusia)
+- Bab 40: Lihat juga: Bab 71 (konten kreator dan endorsement) dan Bab 73 (ulasan palsu, kelangkaan semu, desain yang menjebak, dan keterbukaan iklan)
+- Bab 41: Lihat juga: Bab 50 (Memberi Tangguh), Bab 51 (Lapang dalam Bermuamalah), dan Bab 61 (Riba di Zaman Kita)
+- Bab 42: Lihat juga: Bab 39 (Kerja Keras dan Profesional), Bab 69 (akad jasa), Bab 74 (AI dan pekerjaan), Bab 77 (tata kelola usaha), dan Bab 78 (Modal Manusia)
+- Bab 43: Lihat juga: Bab 78 (Modal Manusia)
+- Bab 44: Lihat juga: Bab 43 (Majelis Ilmu), Bab 63 (Amalan Nusantara), dan Bab 73 (Etika Digital)
+- Bab 45: Lihat juga: Bab 6 (Sepuluh Wajah Rezeki), Bab 64 (Penyakit Hati), dan Bab 65 (Kikir, Boros, dan Psikologi Uang)
+- Bab 46: Lihat juga: Bab 21 (Tawakal), Bab 53 (Sabar dan Ridha), dan Bab 57 (Ketika Jiwa Lelah)
+- Bab 47: Lihat juga: Bab 27 (Doa), Bab 28 (Zikir), dan Bab 30 (Al-Qur'an)
+- Bab 48: Lihat juga: Bab 41 (Utang), Bab 80 (Dana Darurat dan Menabung), dan Bab 82 (Siklus Hidup Keuangan)
+- Bab 49: Lihat juga: Bab 4 (Halal dan Thayyib), Bab 59 (Dosa dan Maksiat), dan Bab 42 (Hak Pekerja)
+- Bab 50: Lihat juga: Bab 41 (Utang), Bab 51 (Lapang dalam Bermuamalah), dan Bab 61 (Riba di Zaman Kita)
+- Bab 51: Lihat juga: Bab 66 (Anatomi Akad), Bab 67 (Akad Jual-Beli), dan Bab 50 (Memberi Tangguh)
+- Bab 52: Lihat juga: Bab 9 dan Lampiran J (Peta Keputusan Rezeki)
+- Bab 53: Lihat juga: Bab 21 (Tawakal), Bab 46 (Husnuzhan), dan Bab 57 (Ketika Jiwa Lelah)
+- Bab 54: Lihat juga: Bab 53 (Sabar dan Ridha), Bab 55 (Harta Bukan Ukuran Kemuliaan), dan Bab 56 (Bangkit dari Krisis)
+- Bab 55: Lihat juga: Bab 54 (Kisah Para Nabi), Bab 64 (Penyakit Hati), dan Bab 45 (Qana'ah)
+- Bab 56: Lihat juga: Lampiran J (Peta Keputusan Rezeki)
+- Bab 57: Lihat juga: Bab 53, Bab 52 (52.11), dan Lampiran Z
+- Bab 58: Lihat juga: Bab 56, Bab 57, Bab 81, dan Lampiran AD
+- Bab 59: Lihat juga: Bab 20 (Taqwa), Bab 29 (Istighfar), dan Bab 60 (Riba)
+- Bab 60: Lihat juga: Lampiran I (Pohon Keputusan Riba) dan Bab 61
+- Bab 61: Lihat juga: Lampiran I (Pohon Keputusan Riba)
+- Bab 62: Lihat juga: Bab 63 (amalan rezeki Nusantara: sesajen, penglaris, dan jimat usaha)
+- Bab 63: Lihat juga: Bab 35 (silaturahmi), Bab 62 (pesugihan, penglaris, dan jimat), dan Bab 103 (mitos)
+- Bab 64: Lihat juga: Bab 45 (Qana'ah), Bab 57 (Ketika Jiwa Lelah), dan Bab 65 (Kikir, Boros, dan Psikologi Uang)
+- Bab 65: Lihat juga: Bab 45 (Qana'ah), Bab 64 (Penyakit Hati), dan Bab 79 (Anggaran Keluarga)
+- Bab 66: Lihat juga: Bab 67 (Akad Jual-Beli), Bab 68 (Akad Kerja Sama), dan Bab 69 (Akad Jasa dan Pinjaman)
+- Bab 67: Lihat juga: Bab 104 (Studi Kasus) dan Lampiran G
+- Bab 68: Lihat juga: Bab 104 (Studi Kasus) dan Lampiran G
+- Bab 69: Lihat juga: Bab 104 (Studi Kasus) dan Lampiran G
+- Bab 70: Lihat juga: Bab 16 (Ekosistem Rezeki), Bab 67 (Akad Jual-Beli), dan Bab 71 (Bisnis Digital)
+- Bab 71: Lihat juga: Bab 66 (Lembar Pembedah Akad), Bab 73 (reputasi, data, dan kecerdasan buatan), Lampiran G, dan Bab 104
+- Bab 72: Lihat juga: Bab 66 (Lembar Pembedah Akad), Bab 75, dan Lampiran G; untuk teknis ekspor-impor lihat buku Ensiklopedia UMKM Go Global
+- Bab 73: Lihat juga: Bab 74 (AI sebagai sumber rezeki dan pekerjaan)
+- Bab 74: Lihat juga: Bab 73 (etika digital), Bab 78 (modal manusia), Bab 75 (algo trading dan robo-advisor), dan buku "Tak Tergantikan" untuk pembahasan manusia versus AI
+- Bab 75: Lihat juga: Bab 66 (Lembar Pembedah Akad), Lampiran G, dan Bab 104
+- Bab 76: Lihat juga: Bab 66 (Lembar Pembedah Akad), Lampiran G, dan Bab 104
+- Bab 77: Lihat juga: Bab 66 (Anatomi Akad), Bab 68 (Akad Kerja Sama), dan Bab 17 (Pajak dan Kepatuhan)
+- Bab 78: Lihat juga: Bab 39 (Kerja) dan Bab 43 (Taklim)
+- Bab 79: Lihat juga: Bab 65 (Kikir, Boros, dan Psikologi Uang), Bab 80 (Dana Darurat), dan Bab 81 (Risiko dan Ketahanan)
+- Bab 80: Lihat juga: Bab 79 (Anggaran Keluarga), Bab 81 (Risiko dan Ketahanan), dan Bab 56 (Bangkit dari Krisis)
+- Bab 81: Lihat juga: Bab 80 (dana darurat dan likuiditas)
+- Bab 82: Lihat juga: Bab 39, Bab 43, dan Bab 78
+- Bab 83: Lihat juga: Bab 16, Bab 19, dan Bab 84 (praktik menghitung)
+- Bab 84: Lihat juga: Bab 83 (Fiqh Zakat), Bab 17 (Zakat dan Pajak), dan Bab 33 (Sedekah)
+- Bab 85: Lihat juga: Bab 66 (Lembar Pembedah Akad), Lampiran G, dan Bab 104
+- Bab 86: Lihat juga: Bab 85 (Perbankan dan Pembiayaan Syariah), Bab 66 (Lembar Pembedah Akad), Bab 79 (anggaran biaya kesehatan), dan Bab 81 (risiko dan ketahanan)
+- Bab 87: Lihat juga: Bab 61 (sisi riba KPR dan leasing), Bab 67 (jual-beli tanah, rumah, dan kendaraan), dan Bab 85 (perbankan syariah)
+- Bab 88: Lihat juga: Bab 14 (sejarah ekonomi Islam), Bab 16 (ekosistem rezeki), Bab 56 (bantuan resmi), Bab 61 (rentenir dan koperasi harian), Bab 85 (perbankan syariah), dan Bab 91 (wakaf produktif)
+- Bab 89: Lihat juga: Bab 90 (Wasiat dan Hibah), Bab 91 (Wakaf), dan Bab 83 (Fiqh Zakat)
+- Bab 90: Lihat juga: Bab 89 (Faraid), Bab 91 (Wakaf), dan Bab 36 (Berbakti kepada Orang Tua)
+- Bab 91: Lihat juga: Bab 90 (Wasiat dan Hibah), Bab 88 (Ekonomi Umat), dan Bab 33 (Sedekah)
+- Bab 92: Lihat juga: Bab 99 (Tantangan 90 Hari), Bab 24 (Shalat Fardhu), dan Bab 102 (Rapor Rezeki)
+- Bab 93: Lihat juga: Bab 94 (Panduan Muslim), Bab 37 (Menikah), dan Bab 79 (Anggaran Keluarga)
+- Bab 94: Lihat juga: Bab 93 (Panduan Muslimah), Bab 37 (Menikah), dan Bab 79 (Anggaran Keluarga)
+- Bab 95: Lihat juga: Bab 36 (Berbakti kepada Orang Tua), Bab 79 (Anggaran Keluarga), dan Bab 96 (Generasi Muda)
+- Bab 96: Lihat juga: Bab 37, Bab 61, Bab 62, dan Bab 79
+- Bab 97: Lihat juga: Bab 13 (13.9), Bab 39 (42.11), dan Bab 83
+- Bab 98: Lihat juga: Bab 19, Bab 83, dan Bab 89 sampai 91
+- Bab 99: Lihat juga: Bab 8 (Peta 7 Pintu), Bab 92 (Jadwal Harian), dan Bab 102 (Rapor Rezeki)
+- Bab 100: Lihat juga: Bab 8 (Peta 7 Pintu), Bab 92 (Jadwal Harian), dan Bab 102 (Rapor Rezeki)
+- Bab 101: Lihat juga: Bab 102 (Rapor Rezeki), Bab 92 (Jadwal Harian), dan Lampiran X (Panduan Fasilitator)
+- Bab 102: Lihat juga: Bab 8 (Peta 7 Pintu), Bab 99 (Tantangan 90 Hari), dan Bab 9 (Sebab, Bukan Jaminan)
+- Bab 103: Lihat juga: Bab 9 (kerangka Sebab, Bukan Jaminan)
+- Bab 104: Lihat juga: Bab 56 (Bangkit dari Krisis), Bab 102 (Rapor Rezeki), dan Bab 103 (Mitos Rezeki)
+- Bab 105: Lihat juga: Bab 8 (Peta 7 Pintu), Bab 9 (Sebab, Bukan Jaminan), dan Bab 103 (Mitos Rezeki)

@@ -1,0 +1,11 @@
+# LEMBAR VERIFIKASI DALIL — BAB 53 (TIPE A)
+
+| ID | Rujukan | Sumber/status | Pemeriksaan |
+|---|---|---|---|
+| Audit naskah | Lulus | `python3 audit_bab.py BAB_053_Sabar_Ridha_v1.md 53 A`: 5345 kata; anggaran 5600; deviasi -4.6%; 10/10 sub-bab; temuan []; lolus true. | Hasil final setelah penyesuaian subbab 53.10. |
+| 53.D1 | HR. Muslim no. 2999 | https://sunnah.com/muslim:2999 | Dibuka dan diverifikasi. Halaman menampilkan Suhaib, “Strange are the ways of a believer ... if he gets into trouble and shows resignation (and endures it patiently), there is a good for him in it.” Isi naskah mengikuti makna teks; nomor sesuai spesifikasi. Derajat tetap diberi [DERAJAT-CEK] untuk peninjauan ahli. |
+| 53.D2 | HR. Bukhari & Muslim, sabar pada pukulan pertama | https://sunnah.com/bukhari:1302 ; https://sunnah.com/muslim:926b | Bukhari 1302 ditemukan melalui hasil pencarian Sunnah.com yang mengutip Anas: “The real patience is at the first stroke of a calamity.” Muslim 926b menampilkan judul bab tentang sabar saat musibah pertama datang dan jalur riwayat terkait. Naskah tidak mencantumkan nomor sesuai instruksi. [DERAJAT-CEK] |
+| 53.D3 | Doa dari gelisah dan sedih | https://sunnah.com/search?q=wal ; https://sunnah.com/nasai:5449 | Pencarian Sunnah.com menampilkan riwayat doa “Allahumma inni a'udhu bika minal-hammi, wal-hazani...” dari Anas; hasil langsung Sunan an-Nasa'i 5449 juga menampilkan doa dari gelisah dan sedih, tanpa frasa “beban utang” pada varian tersebut. Karena bab tidak menyertakan nomor atau atribusi rawi tertentu, perlu takhrij ahli sebelum penerbitan. [DERAJAT-CEK] |
+| 53.D4 | Hadits musibah sebagai penghapus dosa | Belum diverifikasi URL spesifik | Naskah menyebut makna umum tanpa nomor dan tanpa mengklaim sebab tertentu pada korban. Takhrij dan pilihan rujukan perlu dilengkapi ahli sebelum publikasi. [DERAJAT-CEK] |
+
+Catatan: HR. Bukhari 1302 dan Muslim 926b ialah halaman yang diperiksa untuk tema pukulan pertama. URL doa mengarah ke pencarian/riwayat An-Nasa'i yang relevan; varian lafaz dan tambahan antarnaskah perlu dicocokkan sebelum finalisasi ilmiah.
